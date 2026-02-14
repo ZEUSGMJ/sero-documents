@@ -50,7 +50,7 @@ This Privacy Policy may be updated periodically. Continued use of Sero after cha
 ## 📞 Contact Information
 
 If you have questions, concerns, or data removal requests:
-- Discord: **fluxpuck**
+- Discord: [**fluxpuck**](https://discord.com/users/270640827787771943)
 - GitHub: Open an issue on our repository
 
 ---
