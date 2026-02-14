@@ -51,7 +51,7 @@ These Terms shall be governed by the laws of the Netherlands, without regard to 
 ## 11. Contact Information
 
 If you have questions or concerns about these Terms:
-- Discord: **fluxpuck**
+- Discord: [**fluxpuck**](https://discord.com/users/270640827787771943)
 - GitHub: Open an issue on our repository
 
 ---
